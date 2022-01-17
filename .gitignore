@@ -1,0 +1,9 @@
+.idea/*
+node_modules/*
+package-lock.json
+log/*
+.DS_Store
+awsconfig.json
+config/multer.js
+config/secret.js
+config/database.js
